@@ -9,3 +9,9 @@ Specifically, the team was asked to address the following questions throughout t
 5.	Which YouTube Channel (i.e., channeltitle) produced the greatest number of distinct videos and how many did it publish? 
 
 The project team was also asked to identify a category, other than Music and Entertainment, that can be effectively leveraged to publish a top-trending video on YouTube and assess whether the strategy would be successful across different countries.
+
+To address these requirements, four sql files were completed.
+1. part_1.sql shows the setup of the data warehouse used (from azure to snowflake) and the creation of tables
+2. part_2.sql shows a highlevel cleanup of the dataset used for analysis
+3. part_3.sql shows the queries done to respond to the five questions indicated above
+4. part_4.sql shows the queries done to identify the category the can be effective leveraged to publish a top-trending video, as discussed.
