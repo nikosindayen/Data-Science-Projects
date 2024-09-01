@@ -2,11 +2,11 @@ YouTube, the top video hosting platform, creates a list of its top trending vide
 Given this data, the project team was tasked to provide a high-level analysis of the site’s top trending videos. 
 
 Specifically, the team was asked to address the following questions throughout the project:
-1.	What are the three most-viewed ‘Gaming’ videos for each country that were trending during 1st April 2024?
-2.	What is the number of distinct videos that contain the word “BTS” for each country?
-3.	For each month of 2024 and each country, which video is the most viewed and what is its likes ratio (i.e., percentage of the likes on the video over the video count)?
-4.	For the period 2022 onwards and for each country, which Category (i.e., category_title) has the most distinct videos and what is the percentage of distinct videos on the category over the total number of distinct videos in the respective country?
-5.	Which YouTube Channel (i.e., channeltitle) produced the greatest number of distinct videos and how many did it publish? 
+1. What are the three most-viewed ‘Gaming’ videos for each country that were trending during 1st April 2024?
+2. What is the number of distinct videos that contain the word “BTS” for each country?
+3. For each month of 2024 and each country, which video is the most viewed and what is its likes ratio (i.e., percentage of the likes on the video over the video count)?
+4. For the period 2022 onwards and for each country, which Category (i.e., category_title) has the most distinct videos and what is the percentage of distinct videos on the category over the total number of distinct videos in the respective country?
+5. Which YouTube Channel (i.e., channeltitle) produced the greatest number of distinct videos and how many did it publish? 
 
 The project team was also asked to identify a category, other than Music and Entertainment, that can be effectively leveraged to publish a top-trending video on YouTube and assess whether the strategy would be successful across different countries.
 
