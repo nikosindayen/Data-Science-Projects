@@ -1,7 +1,7 @@
 YouTube, the top video hosting platform, creates a list of its top trending videos based on user interactions such as views, likes, and comments. This information can be extracted using the website’s API. A copy of the site’s daily top trending videos from 2020 to 2024 for ten (10) countries was made available in Kaggle. 
 Given this data, the project team was tasked to provide a high-level analysis of the site’s top trending videos. 
 
-Specifically, the team was asked to address the following questions throughout the project.
+Specifically, the team was asked to address the following questions throughout the project:
 1.	What are the three most-viewed ‘Gaming’ videos for each country that were trending during 1st April 2024?
 2.	What is the number of distinct videos that contain the word “BTS” for each country?
 3.	For each month of 2024 and each country, which video is the most viewed and what is its likes ratio (i.e., percentage of the likes on the video over the video count)?
